@@ -252,7 +252,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 694,Number of Distinct Islands,56.0%,Medium,0.03278982282299087, https://leetcode.com/problems/number-of-distinct-islands
 824,Goat Latin,63.4%,Easy,0.0317991816929387, https://leetcode.com/problems/goat-latin
 44,Wildcard Matching,24.7%,Hard,0.030573033362282363, https://leetcode.com/problems/wildcard-matching
-1027,Longest Arithmetic Sequence,53.4%,Medium,0.03030534949532895, https://leetcode.com/problems/longest-arithmetic-sequence
+1027,Longest Arithmetic Subsequence,53.4%,Medium,0.03030534949532895, https://leetcode.com/problems/longest-arithmetic-subsequence
 191,Number of 1 Bits,49.8%,Easy,0.029560622742018188, https://leetcode.com/problems/number-of-1-bits
 14,Longest Common Prefix,35.4%,Easy,0.029493413243583278, https://leetcode.com/problems/longest-common-prefix
 176,Second Highest Salary,31.6%,Easy,0.029252542837437355, https://leetcode.com/problems/second-highest-salary

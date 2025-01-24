@@ -405,7 +405,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 724,Find Pivot Index,44.0%,Easy,0.03089844155123413, https://leetcode.com/problems/find-pivot-index
 1179,Reformat Department Table,80.6%,Easy,0.030653741091002412, https://leetcode.com/problems/reformat-department-table
 207,Course Schedule,43.1%,Medium,0.030628389490117876, https://leetcode.com/problems/course-schedule
-1027,Longest Arithmetic Sequence,53.4%,Medium,0.03030534949532895, https://leetcode.com/problems/longest-arithmetic-sequence
+1027,Longest Arithmetic Subsequence,53.4%,Medium,0.03030534949532895, https://leetcode.com/problems/longest-arithmetic-subsequence
 1192,Critical Connections in a Network,48.6%,Hard,0.030183377823098576, https://leetcode.com/problems/critical-connections-in-a-network
 240,Search a 2D Matrix II,43.2%,Medium,0.02999287612403949, https://leetcode.com/problems/search-a-2d-matrix-ii
 419,Battleships in a Board,70.0%,Medium,0.02967576814611661, https://leetcode.com/problems/battleships-in-a-board

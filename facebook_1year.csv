@@ -108,7 +108,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 378,Kth Smallest Element in a Sorted Matrix,54.3%,Medium,0.5057807371350349, https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
 1094,Car Pooling,56.7%,Medium,0.5042466526679481, https://leetcode.com/problems/car-pooling
 15,3Sum,26.8%,Medium,0.4923847546019265, https://leetcode.com/problems/3sum
-1027,Longest Arithmetic Sequence,53.4%,Medium,0.48432368302048406, https://leetcode.com/problems/longest-arithmetic-sequence
+1027,Longest Arithmetic Subsequence,53.4%,Medium,0.48432368302048406, https://leetcode.com/problems/longest-arithmetic-subsequence
 348,Design Tic-Tac-Toe,54.3%,Medium,0.47793775692115553, https://leetcode.com/problems/design-tic-tac-toe
 140,Word Break II,32.6%,Hard,0.4761853504191846, https://leetcode.com/problems/word-break-ii
 93,Restore IP Addresses,35.6%,Medium,0.47237108409270245, https://leetcode.com/problems/restore-ip-addresses

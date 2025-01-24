@@ -6,7 +6,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 498,Diagonal Traverse,48.2%,Medium,0.3533581913127385, https://leetcode.com/problems/diagonal-traverse
 437,Path Sum III,47.2%,Medium,0.3499312788602187, https://leetcode.com/problems/path-sum-iii
 1053,Previous Permutation With One Swap,48.5%,Medium,0.20067069546215116, https://leetcode.com/problems/previous-permutation-with-one-swap
-1027,Longest Arithmetic Sequence,53.4%,Medium,0.11122563511022437, https://leetcode.com/problems/longest-arithmetic-sequence
+1027,Longest Arithmetic Subsequence,53.4%,Medium,0.11122563511022437, https://leetcode.com/problems/longest-arithmetic-subsequence
 780,Reaching Points,29.4%,Hard,0.1040197878075301, https://leetcode.com/problems/reaching-points
 390,Elimination Game,44.5%,Medium,0.0922312242160336, https://leetcode.com/problems/elimination-game
 1329,Sort the Matrix Diagonally,78.4%,Medium,0.08584868273025201, https://leetcode.com/problems/sort-the-matrix-diagonally

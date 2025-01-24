@@ -527,7 +527,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 345,Reverse Vowels of a String,44.2%,Easy,0.031112084201956228, https://leetcode.com/problems/reverse-vowels-of-a-string
 1179,Reformat Department Table,80.6%,Easy,0.030653741091002412, https://leetcode.com/problems/reformat-department-table
 557,Reverse Words in a String III,69.8%,Easy,0.03063547953861342, https://leetcode.com/problems/reverse-words-in-a-string-iii
-1027,Longest Arithmetic Sequence,53.4%,Medium,0.03030534949532895, https://leetcode.com/problems/longest-arithmetic-sequence
+1027,Longest Arithmetic Subsequence,53.4%,Medium,0.03030534949532895, https://leetcode.com/problems/longest-arithmetic-subsequence
 671,Second Minimum Node In a Binary Tree,42.7%,Easy,0.02958795718549609, https://leetcode.com/problems/second-minimum-node-in-a-binary-tree
 452,Minimum Number of Arrows to Burst Balloons,49.6%,Medium,0.029478921626711667, https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
 344,Reverse String,68.5%,Easy,0.029048355159926334, https://leetcode.com/problems/reverse-string

@@ -738,7 +738,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1300,Sum of Mutated Array Closest to Target,44.2%,Medium,0.07008120825318372, https://leetcode.com/problems/sum-of-mutated-array-closest-to-target
 657,Robot Return to Origin,73.5%,Easy,0.06825676545444917, https://leetcode.com/problems/robot-return-to-origin
 494,Target Sum,46.3%,Medium,0.06721153055721414, https://leetcode.com/problems/target-sum
-1027,Longest Arithmetic Sequence,53.4%,Medium,0.06693948267510934, https://leetcode.com/problems/longest-arithmetic-sequence
+1027,Longest Arithmetic Subsequence,53.4%,Medium,0.06693948267510934,https://leetcode.com/problems/longest-arithmetic-subsequence
 997,Find the Town Judge,50.1%,Easy,0.06548984513511495, https://leetcode.com/problems/find-the-town-judge
 1105,Filling Bookcase Shelves,58.1%,Medium,0.06464285626208545, https://leetcode.com/problems/filling-bookcase-shelves
 485,Max Consecutive Ones,54.6%,Easy,0.06323871592532454, https://leetcode.com/problems/max-consecutive-ones

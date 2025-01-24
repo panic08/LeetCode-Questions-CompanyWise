@@ -378,7 +378,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 575,Distribute Candies,61.4%,Easy,0.030890487019338404, https://leetcode.com/problems/distribute-candies
 6,ZigZag Conversion,36.3%,Medium,0.03049597862981453, https://leetcode.com/problems/zigzag-conversion
 316,Remove Duplicate Letters,35.8%,Hard,0.030443751414723153, https://leetcode.com/problems/remove-duplicate-letters
-1027,Longest Arithmetic Sequence,53.4%,Medium,0.03030534949532895, https://leetcode.com/problems/longest-arithmetic-sequence
+1027,Longest Arithmetic Subsequence,53.4%,Medium,0.03030534949532895, https://leetcode.com/problems/longest-arithmetic-subsequence
 994,Rotting Oranges,49.2%,Medium,0.030179582027776965, https://leetcode.com/problems/rotting-oranges
 16,3Sum Closest,46.0%,Medium,0.02976964023166436, https://leetcode.com/problems/3sum-closest
 1197,Minimum Knight Moves,36.1%,Medium,0.02969780239174205, https://leetcode.com/problems/minimum-knight-moves

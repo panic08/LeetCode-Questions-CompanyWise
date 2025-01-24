@@ -599,7 +599,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1245,Tree Diameter,60.1%,Medium,0.17869178874337593, https://leetcode.com/problems/tree-diameter
 871,Minimum Number of Refueling Stops,31.4%,Hard,0.1769307081590782, https://leetcode.com/problems/minimum-number-of-refueling-stops
 486,Predict the Winner,47.9%,Medium,0.17647417648741714, https://leetcode.com/problems/predict-the-winner
-1027,Longest Arithmetic Sequence,53.4%,Medium,0.17589066646366422, https://leetcode.com/problems/longest-arithmetic-sequence
+1027,Longest Arithmetic Subsequence,53.4%,Medium,0.17589066646366422, https://leetcode.com/problems/longest-arithmetic-subsequence
 977,Squares of a Sorted Array,72.1%,Easy,0.17482111400082578, https://leetcode.com/problems/squares-of-a-sorted-array
 523,Continuous Subarray Sum,24.6%,Medium,0.1741156174236314, https://leetcode.com/problems/continuous-subarray-sum
 670,Maximum Swap,43.6%,Medium,0.1735948056557174, https://leetcode.com/problems/maximum-swap

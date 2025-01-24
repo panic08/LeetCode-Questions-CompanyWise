@@ -639,7 +639,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 953,Verifying an Alien Dictionary,54.1%,Easy,0.03117337947619734, https://leetcode.com/problems/verifying-an-alien-dictionary
 814,Binary Tree Pruning,74.5%,Medium,0.03113091859517317, https://leetcode.com/problems/binary-tree-pruning
 1179,Reformat Department Table,80.6%,Easy,0.030653741091002412, https://leetcode.com/problems/reformat-department-table
-1027,Longest Arithmetic Sequence,53.4%,Medium,0.03030534949532895, https://leetcode.com/problems/longest-arithmetic-sequence
+1027,Longest Arithmetic Subsequence,53.4%,Medium,0.03030534949532895, https://leetcode.com/problems/longest-arithmetic-subsequence
 319,Bulb Switcher,45.4%,Medium,0.029852963149681156, https://leetcode.com/problems/bulb-switcher
 501,Find Mode in Binary Search Tree,42.4%,Easy,0.029808466297826082, https://leetcode.com/problems/find-mode-in-binary-search-tree
 191,Number of 1 Bits,49.8%,Easy,0.029560622742018188, https://leetcode.com/problems/number-of-1-bits
